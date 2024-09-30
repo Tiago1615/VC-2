@@ -1,5 +1,10 @@
 # Visión por Computador: Práctica 2. Funciones básicas de OpenCV
 
+### Autores
+
+- [@Santiago Santana Martínez](https://github.com/Tiago1615)
+- [@Mauro Gómez Guillén](https://github.com/MGGdesigns)
+
 ## Introducción
 El objetivo de la práctica es proporcionar una comprensión sólida y aplicada de las técnicas de procesamiento de imágenes utilizando OpenCV, enfocándose en la detección de características relevantes en imágenes capturadas en tiempo real.
 
@@ -130,11 +135,6 @@ Dentro de un bucle while, se capturarán los fotogramas y se aplicará la sustra
 Se mostrarán dos ventanas: una con los contornos detectados y otra con los objetos resaltados en el fotograma original:
 
 ![{BDACA1C0-FBB5-4270-AF12-7E9C28141D75}](https://github.com/user-attachments/assets/e82356a1-e056-45d5-84ce-bb67398ff7d8)
-
-### Autores
-
-- [@Santiago Santana Martínez](https://github.com/Tiago1615)
-- [@Mauro Gómez Guillén](https://github.com/MGGdesigns)
 
 ### Referencias Bibliográficas
 
