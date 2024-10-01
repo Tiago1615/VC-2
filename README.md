@@ -142,3 +142,6 @@ Se mostrarán dos ventanas: una con los contornos detectados y otra con los obje
 - [My little piece of privacy](https://www.niklasroy.com/project/88/my-little-piece-of-privacy)
 - [Messa di voce](https://www.youtube.com/watch?v=GfoqiyB1ndE)
 - [Virtual air guitar](https://www.youtube.com/watch?v=FIAmyoEpV5c)
+- [OpenCV dibujo de contornos](https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html)
+- [OpenCV flags para dibujar contornos](https://docs.opencv.org/4.x/d3/dc0/group__imgproc__shape.html#ga819779b9857cc2f8601e6526a3a5bc71)
+- [OpenCV círculos y rectángulos para los contornos](https://docs.opencv.org/3.4/dd/d49/tutorial_py_contour_features.html)
