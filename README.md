@@ -35,9 +35,9 @@ Luego, normalizamos el conteo en base al número de columnas de la imagen (que s
 ```maxFil = max(rows)```
 
 Con el valor máximo de píxeles blancos calculado (maxFil), determinamos cuáles filas tienen un número de píxeles blancos mayor o igual que el 95% de este máximo. Para ello, inicializamos una lista vacía llamada rowsFound y realizamos la comparación, las contamos e imprimimos el resultado.
-Para marcar las filas encontradas en la imagen de Canny, utilizamos la función cv2.circle para dibujar un círculo en las posiciones correspondientes.
+Para marcar las filas encontradas en la imagen de Canny, utilizamos la función cv2.line para dibujar una línea en las posiciones correspondientes.
 
-![{E4F42862-E7D2-4E5C-8874-B48A66CC6794}](https://github.com/user-attachments/assets/36f45d0f-082e-48ed-82b6-ba8627a5d723)
+![{7F3FA3D3-873A-4178-BF14-1BCB4F234C2F}](https://github.com/user-attachments/assets/53a8d204-3cf5-4b8f-83ad-ac57446a1f5d)
 
 ### Tarea 2: Aplicar umbralizado a la imagen resultante de Sobel y realizar conteo de píxeles no nulos
 
